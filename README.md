@@ -1,1 +1,1 @@
-![3D Contributions](profile-season-animate.svg)
+![3D Contributions](profile-3d-contrib/profile-south-season-animate.svg)
