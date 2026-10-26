@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Conor Murphy</h1>
-
-
-<h3 align="center">BSc (Hons) in Computing in Software Development Dundalk Institute of Technology</h3>
+<img src="github-header-banner.png"/>
 
 ![3D Contributions](profile-3d-contrib/profile-night-view.svg)
 
